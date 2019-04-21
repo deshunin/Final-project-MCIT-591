@@ -1,4 +1,4 @@
-MCIT 592 Final Project
+MCIT 591 Final Project
 Data Analysis and Visualization of the global trends in death rates from suicide
 based on the World Health Organization databases.
 team: Sergii Deshunin and Venkatesh Deshpande
